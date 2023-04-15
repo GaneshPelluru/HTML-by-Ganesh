@@ -98,7 +98,8 @@ There are many more HTML tags available, but these are some of the most commonly
 
 - The output for the above html code will be like
 
-  - ![sample html image](https://user-images.githubusercontent.com/128490912/232206829-604560d6-0eb1-45ae-8414-524d9a5a6c2b.jpg)
+  - <img width="408" alt="Picture1" src="https://user-images.githubusercontent.com/128490912/232207209-76328d5b-f9b1-4797-94fd-87946e48c570.png">
+
   - 
 
     
