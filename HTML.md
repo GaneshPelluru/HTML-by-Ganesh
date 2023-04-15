@@ -94,9 +94,13 @@ There are many more HTML tags available, but these are some of the most commonly
         </html>
 
 
-- Note: To get the output we need to `_Install the Live server_` in the source platform
+- Note: To get the output we need to Install the Live server in the source editior
 
-  - The output will be like:
+- The output for the above html code will be like
+
+  - ![sample html image](https://user-images.githubusercontent.com/128490912/232206829-604560d6-0eb1-45ae-8414-524d9a5a6c2b.jpg)
+  - 
+
     
 
      
