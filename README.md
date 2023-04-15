@@ -1,3 +1,3 @@
-# HTML-by-Ganesh
+# Bio-Data of Ganesh
+# Family Tree Diagram
 
-hi to every one in the class
