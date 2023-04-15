@@ -1,17 +1,15 @@
-HTML.md
-
-
-
 # HTML-by-Ganesh
-
-
 
 ## This tutorial is about the HTML Course
 
 
 ## - Contents
-## - History of HTML
-## - Overview of HTML
+   - What is HTML
+   - Tags Used in HTML
+   - History of HTML
+   - Overview of HTML
+   - world without HTML
+   - Writing Code by using HTML
 
 
 
@@ -77,6 +75,24 @@ There are many more HTML tags available, but these are some of the most commonly
   - A significant upgrade to HTML, `HTML 4.0 was launched in 1997` and included new tags and properties for `multimedia, scripting, and sophisticated layout and formatting`. Additionally, it supported cascading style sheets (CSS), enabling more adaptable and effective web design.
 
   -  HTML is a vital tool for online designers and developers today, and it is always developing with new iterations and upgrades to meet the web's shifting requirement.
+ 
+ 
+ 
+ # world without html:
+   - A world without HTML would be a very different place, especially in terms of how we interact with information on the internet. HTML, or Hypertext Markup Language,      is the standard markup language used to create web pages, and it allows developers to structure and format content on the web.
+   - Without HTML, it would be difficult to create web pages as we know them today. Websites would likely be much more basic, consisting mostly of text and simple
+     images. There would be no hyperlinks to other pages, no embedded videos, and no interactive elements such as forms or animations.
+   - In this world without HTML, other technologies would likely emerge to fill the gap. Perhaps a new markup language would be developed, or alternative ways of   
+     structuring web content would be created. However, the way we interact with information on the web would be fundamentally different, and we would have to adapt to
+     a new way of consuming and sharing content.
+     
+ ## world without HTML:
+ 
+   - A world with HTML is the world we live in today, where we rely heavily on the internet for communication, commerce, entertainment, and much more. HTML, along with       other web technologies such as CSS and JavaScript, allows us to create complex and dynamic web pages that can be accessed by anyone with an internet connection.
+   - Thanks to HTML, we can browse the web and navigate between different websites through hyperlinks, which allow us to access a vast network of information and            resources. HTML also enables us to structure and format content on the web, making it easier to read and more visually appealing. For example, headings,                paragraphs, lists, and tables can be used to organize information and create clear hierarchies.
+   - Moreover, HTML is the foundation for creating interactive web pages that allow users to perform a variety of actions, such as filling out forms, watching videos,      playing games, and engaging with social media. This level of interactivity is made possible by technologies such as JavaScript and AJAX, which can be used t0          create dynamic user interfaces that respond to user input in real-time.
+   - In summary, HTML plays a crucial role in shaping the way we access, consume, and interact with information on the internet, and it will continue to be an              essential technology as the web evolves and expands.
+
 
  # _Now let's try to write a code by using the html tags in the HTML Programming_:
 
