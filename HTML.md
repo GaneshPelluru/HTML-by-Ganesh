@@ -116,7 +116,11 @@ There are many more HTML tags available, but these are some of the most commonly
 
   - <img width="408" alt="Picture1" src="https://user-images.githubusercontent.com/128490912/232207209-76328d5b-f9b1-4797-94fd-87946e48c570.png">
 
-  - 
+
+  - The brief explaination about the output is;
+
+  - ![Picture2 html](https://user-images.githubusercontent.com/128490912/233066847-5d65b617-4b23-4f3d-bfbd-8ed75318381e.jpg)
+
 
     
 
