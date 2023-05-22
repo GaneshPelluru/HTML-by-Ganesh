@@ -121,7 +121,119 @@ There are many more HTML tags available, but these are some of the most commonly
 
   - ![Picture2 html](https://user-images.githubusercontent.com/128490912/233066847-5d65b617-4b23-4f3d-bfbd-8ed75318381e.jpg)
 
+## THE BELOW EXAMPLE IS OF THE FAMILY TREE DIAGRAM  
+## - THE CODE IS ABOUT IN FORM OF HTML 
 
-    
+          
+              <!DOCTYPE html>
+               <html>
+               <head>
+              <title>Family Tree Diagram</title>
+               <style>
+               .tree ul {
+                padding-top: 20px;
+               position: relative;
+               text-align: center;
+      white-space: nowrap;
+    }
+    .tree ul::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 50%;
+      border-left: 1px solid #ccc;
+    }
+    .tree li {
+      display: inline-block;
+      vertical-align: top;
+      text-align: center;
+      list-style-type: none;
+      position: relative;
+      padding: 20px 5px 0 5px;
+    }
+    .tree li::before, .tree li::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 50%;
+      border-top: 1px solid #ccc;
+      width: 50%;
+      height: 20px;
+    }
+    .tree li::after {
+      right: auto;
+      left: 50%;
+      border-left: 1px solid #ccc;
+    }
+    .tree li:only-child::after, .tree li:only-child::before {
+      display: none;
+    }
+    .tree li:only-child {
+      padding-top: 0;
+    }
+    .tree li:first-child::before, .tree li:last-child::after {
+      border: 0 none;
+    }
+    .tree li:last-child::before {
+      border-right: 1px solid #ccc;
+      border-radius: 0 5px 0 0;
+    }
+    .tree li:first-child::after {
+      border-radius: 5px 0 0 0;
+    }
+    .tree ul ul::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 50%;
+      border-left: 1px solid #ccc;
+      width: 0;
+      height: 20px;
+    }
+    .tree li a {
+      border: 1px solid #ccc;
+      padding: 5px 10px;
+      text-decoration: none;
+      color: #666;
+      font-family: arial, verdana, tahoma;
+      font-size: 14px;
+      display: inline-block;
+      background-color: lightgray;
+      border-radius: 5px;
+    }
+    .tree h1 {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+             </style>
+             </head>
+             <body>
+             <div class="tree">
+    <h1>My Family Tree</h1>
+    <ul>
+      <li>
+        <a href="#">Balamurali (Father)</a>
+        <ul>
+          <li>
+            <a href="#">Ganesh (Child 1)</a>
+          </li>
+          <li>
+            <a href="#">Lavanya (Child 2)</a>
+          </li>
+        </ul>
+      </li>
+                 <li>
+                <a href="#">Varalakshmi (Mother)</a>
+             </li>
+            </ul>
+            </div>
+            </body>
+              </html>
 
-     
+
+ - This is one of the example of html 
+
+ - Output:     
+  <img width="611" alt="Capture" src="https://github.com/GaneshPelluru/HTML-by-Ganesh/assets/128490912/d72b8e6f-823e-4e8c-b998-ccf5803acb1d">
